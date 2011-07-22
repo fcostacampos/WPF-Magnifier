@@ -1,0 +1,13 @@
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\App.g.cs
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\magnifier_MarkupCompile.cache
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\magnifier.g.resources
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\magnifier.Properties.Resources.resources
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\bin\Debug\magnifier.exe
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\bin\Debug\magnifier.pdb
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\magnifier.exe
+c:\documents and settings\fcampos\my documents\visual studio 2010\Projects\magnifier\magnifier\obj\x86\Debug\magnifier.pdb
